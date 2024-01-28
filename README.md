@@ -1,5 +1,4 @@
 # Climate Data-Analysis
-Visualization
 This repository contains code and documentation for analyzing climate data. 
 The following outline aims to provide a brief description of the project's goals and objectives.
 
